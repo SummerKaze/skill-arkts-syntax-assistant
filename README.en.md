@@ -12,7 +12,7 @@ English | [简体中文](./README.md)
 
 > ArkTS language learning and development assistant providing syntax reference, TypeScript migration guidance, and high-performance programming practices
 
-This is an ArkTS syntax assistant skill designed for Claude Code. ArkTS is the default development language for OpenHarmony applications, built upon TypeScript with enhanced static typing to improve program stability and performance.
+This is a multi-platform ArkTS syntax assistant skill compatible with claude-code, opencode, cursor, trea, and other AI coding assistants. ArkTS is the default development language for OpenHarmony applications, built upon TypeScript with enhanced static typing to improve program stability and performance.
 
 ## Features
 
@@ -24,6 +24,14 @@ This is an ArkTS syntax assistant skill designed for Claude Code. ArkTS is the d
 
 ## Installation
 
+### Recommended: npx skills add (One-Command Installation)
+
+```bash
+npx skills add https://github.com/SummerKaze/skill-arkts-syntax-assistant.git
+```
+
+This is the simplest and fastest installation method, automatically downloading and configuring the skill.
+
 ### Method 1: Install via Release
 
 1. Visit the [Releases](https://github.com/SummerKaze/skill-arkts-syntax-assistant/releases) page
@@ -33,7 +41,7 @@ This is an ArkTS syntax assistant skill designed for Claude Code. ArkTS is the d
 ### Method 2: Clone Repository
 
 ```bash
-cd ~/.cc-switch/skills/
+cd ~/.claude/skills/
 git clone https://github.com/SummerKaze/skill-arkts-syntax-assistant.git
 ```
 

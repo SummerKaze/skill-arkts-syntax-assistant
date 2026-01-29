@@ -12,7 +12,7 @@
 
 > ArkTS 语言学习与开发助手，提供语法参考、TypeScript 迁移指导和高性能编程实践
 
-这是一个为 Claude Code 设计的 ArkTS 语法助手技能。ArkTS 是 OpenHarmony 应用的默认开发语言，在 TypeScript 基础上做了静态类型强化，提升程序稳定性和性能。
+这是一个支持多平台的 ArkTS 语法助手技能，兼容 claude-code、opencode、cursor、trea 等 AI 编码助手。ArkTS 是 OpenHarmony 应用的默认开发语言，在 TypeScript 基础上做了静态类型强化，提升程序稳定性和性能。
 
 ## 功能特性
 
@@ -24,6 +24,14 @@
 
 ## 安装
 
+### 推荐方式：使用 npx skills add（一键安装）
+
+```bash
+npx skills add https://github.com/SummerKaze/skill-arkts-syntax-assistant.git
+```
+
+这是最简单快速的安装方式，会自动下载并配置技能。
+
 ### 方式一：通过 Release 安装
 
 1. 访问 [Releases](https://github.com/SummerKaze/skill-arkts-syntax-assistant/releases) 页面
@@ -33,7 +41,7 @@
 ### 方式二：克隆仓库
 
 ```bash
-cd ~/.cc-switch/skills/
+cd ~/.claude/skills/
 git clone https://github.com/SummerKaze/skill-arkts-syntax-assistant.git
 ```
 

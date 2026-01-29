@@ -1,10 +1,10 @@
 ---
 name: arkts-syntax-assistant
 description: |-
-  ArkTS syntax, migration, and optimization guide for HarmonyOS development.
-  Triggers on: .ets files, ArkTS keywords, HarmonyOS context.
+  ArkTS syntax, migration, and optimization guide for HarmonyOS/OpenHarmony development.
+  Triggers on: .ets files, ArkTS keywords, HarmonyOS/OpenHarmony context, @ohos packages.
   Help with syntax reference, TypeScript migration, performance optimization,
-  compile errors, and language-specific questions.
+  compile errors, state management, component development, and language-specific questions.
 license: MIT
 tags:
   - arkts

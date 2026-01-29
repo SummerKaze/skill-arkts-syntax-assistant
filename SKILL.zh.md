@@ -1,9 +1,10 @@
 ---
 name: arkts-syntax-assistant
 description: |-
-  ArkTS 开发助手，用于 HarmonyOS 应用。遇到 .ets 文件或 ArkTS 相关
-  上下文时激活。涵盖语法、TypeScript 迁移、性能优化、编译错误和
-  语言相关指导。
+  ArkTS 开发助手，用于 HarmonyOS/OpenHarmony 应用开发。遇到 .ets 文件、
+  ArkTS 关键字、HarmonyOS/OpenHarmony 上下文、@ohos 包时激活。涵盖语法
+  参考、TypeScript 迁移、性能优化、编译错误、状态管理、组件开发和语言
+  相关问题指导。
 license: MIT
 tags:
   - arkts
