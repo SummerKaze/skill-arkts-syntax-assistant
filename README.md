@@ -136,7 +136,7 @@ bash scripts/run.sh
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=SummerKaze/skill-arkts-syntax-assistant&type=Date)](https://star-history.com/#SummerKaze/skill-arkts-syntax-assistant&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=SummerKaze/skill-arkts-syntax-assistant&type=date&legend=top-left)](https://www.star-history.com/#SummerKaze/skill-arkts-syntax-assistant&type=date&legend=top-left)
 
 ## License
 
