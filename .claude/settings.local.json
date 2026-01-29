@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(git -C /Users/h1007/.cc-switch/skills/arkts-syntax-assistant log --oneline -5)"
+    ]
+  }
+}
