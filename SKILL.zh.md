@@ -1,12 +1,9 @@
 ---
 name: arkts-syntax-assistant
 description: |-
-  ArkTS 语言学习与开发助手，提供语法参考、TypeScript 迁移指导和高性能编程实践。
-  当用户需要以下帮助时使用此技能：(1) 学习 ArkTS 基础语法（声明、类型、函数、类、泛型、模块等）
-  (2) 从 TypeScript 迁移到 ArkTS（语法约束、类型系统差异、不兼容特性）
-  (3) ArkTS 高性能编程优化（内存、循环、数组、异常处理等）
-  (4) 解决 ArkTS 编译错误或运行时问题
-  (5) HarmonyOS/OpenHarmony 应用开发中的语言相关问题。
+  ArkTS 开发助手，用于 HarmonyOS 应用。遇到 .ets 文件或 ArkTS 相关
+  上下文时激活。涵盖语法、TypeScript 迁移、性能优化、编译错误和
+  语言相关指导。
 license: MIT
 tags:
   - arkts
