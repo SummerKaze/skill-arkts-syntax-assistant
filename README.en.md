@@ -34,7 +34,7 @@ This skill can help your AI agent easily write ArkTS code, but if you also need 
 </div>
 
 > [!NOTE]  
-> **[Naily's ArkTS Support](https://marketplace.visualstudio.com/items?itemName=NailyZero.vscode-naily-ets)** is a VSCode extension designed for ArkTS language support, providing syntax highlighting, intelligent completion, and other features that allow developers to enjoy a great ArkTS development experience in VSCode.
+> **[Naily's ArkTS Support](https://github.com/ohosvscode/arkTS/blob/next/README-en.md)** is a VSCode extension designed for ArkTS language support, providing syntax highlighting, intelligent completion, and other features that allow developers to enjoy a great ArkTS development experience in VSCode.
 
 ## Installation
 
