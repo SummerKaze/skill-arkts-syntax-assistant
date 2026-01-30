@@ -22,6 +22,20 @@
 - **编译错误解决**：常见编译错误的诊断和修复方案
 - **代码示例**：丰富的对比示例，展示正确与错误写法
 
+## 开发工具支持
+
+这个技能可以帮助您的AI助手轻松编写ArkTS代码，但如果您也需要自己编写和修改代码，却对DevEco Studio缺少Tab补全功能感到困扰，欢迎在VSCode（及同类IDE）中安装ArkTS语言支持插件：
+
+<div align="center">
+
+### Naily's ArkTS Support
+[![](https://img.shields.io/badge/VSCode-Plugin-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)](https://marketplace.visualstudio.com/items?itemName=NailyZero.vscode-naily-ets)
+
+</div>
+
+> [!NOTE]  
+> **[Naily's ArkTS Support](https://marketplace.visualstudio.com/items?itemName=NailyZero.vscode-naily-ets)** 是一个为VSCode设计的ArkTS语言支持插件，提供了语法高亮、智能补全等功能，让开发者在VSCode中也能获得良好的ArkTS开发体验。
+
 ## 安装
 
 ### 推荐方式：使用 npx skills add（一键安装）
