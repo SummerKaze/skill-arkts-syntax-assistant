@@ -22,6 +22,20 @@ This is a multi-platform ArkTS syntax assistant skill compatible with claude-cod
 - **Compile Error Resolution**: Diagnosis and fixes for common compilation errors
 - **Code Examples**: Rich comparison examples showing correct vs incorrect syntax
 
+## Development Tooling
+
+This skill can help your AI agent easily write ArkTS code, but if you also need to write and modify code yourself, and are annoyed by the lack of tab completion in DevEco Studio, you're welcome to install the ArkTS language support plugin in VSCode (and similar IDEs):
+
+<div align="center">
+
+### Naily's ArkTS Support
+[![](https://img.shields.io/badge/VSCode-Plugin-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)](https://marketplace.visualstudio.com/items?itemName=NailyZero.vscode-naily-ets)
+
+</div>
+
+> [!NOTE]  
+> **[Naily's ArkTS Support](https://marketplace.visualstudio.com/items?itemName=NailyZero.vscode-naily-ets)** is a VSCode extension designed for ArkTS language support, providing syntax highlighting, intelligent completion, and other features that allow developers to enjoy a great ArkTS development experience in VSCode.
+
 ## Installation
 
 ### Recommended: npx skills add (One-Command Installation)
