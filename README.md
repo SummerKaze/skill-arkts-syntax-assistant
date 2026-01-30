@@ -34,7 +34,7 @@
 </div>
 
 > [!NOTE]  
-> **[Naily's ArkTS Support](https://marketplace.visualstudio.com/items?itemName=NailyZero.vscode-naily-ets)** 是一个为VSCode设计的ArkTS语言支持插件，提供了语法高亮、智能补全等功能，让开发者在VSCode中也能获得良好的ArkTS开发体验。
+> **[Naily's ArkTS Support](https://github.com/ohosvscode/arkTS)** 是一个为VSCode设计的ArkTS语言支持插件，提供了语法高亮、智能补全等功能，让开发者在VSCode中也能获得良好的ArkTS开发体验。
 
 ## 安装
 
