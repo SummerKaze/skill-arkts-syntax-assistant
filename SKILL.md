@@ -62,8 +62,8 @@ User Question -> Identify Question Type -> Consult Documentation -> Provide Code
 - Classes and interfaces -> Must initialize fields, supports inheritance and
   implementation
 - Generics -> Supports constraints and default values
-- Null safety -> Nullable types `T | null`, non-null assertion `!`, optional
-  chaining `?.`
+- Null safety -> Nullable types ((T | null)), non-null assertion ((!)), optional
+  chaining ((?.))
 
 ### 2. TypeScript Migration
 
